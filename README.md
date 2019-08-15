@@ -2,7 +2,7 @@
 
 ## Introduction
 In this project data of  Apple, Amazon, Microsoft and Google are imported by using Yahoo data reader.
-Stock market data is project on performing fundamental analytics, including plotting, closing price, plotting stock
+Stock market data project on performing fundamental analytics, including plotting, closing price, plotting stock
 trade by volume, performing daily return analysis and pair plot is used to show correlation between all of the stocks.
 
 ## Purpose
